@@ -1,2 +1,2 @@
 # yomi
-Pa nois fazer o joguinho
+Parte do código do meu projeto de TCC, o jogo Yomi
